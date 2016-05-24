@@ -1,4 +1,4 @@
 # hello-world
-just a trial
-i am doin this for the fiest time
+are u serious
+i am doin this for the first time
 and hope it'll be fun

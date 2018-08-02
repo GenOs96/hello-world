@@ -1,0 +1,30 @@
+
+  BookingCust=[
+    {
+    "firstname" :"sanjana",
+		"lastname": "B",
+		"checkin": "",
+		"checkout":"",
+		"numRooms":0,
+		"numAdults":0,
+		"numChild":0,
+		"address":"",
+		"dType":"",
+		"dNum":"",
+	  "bokingId":""
+    },
+    
+    {
+    "firstname": "raja",
+		"lastname": "null",
+		"checkin": "",
+		"checkout":"",
+		"numRooms":10,
+		"numAdults":0,
+		"numChild":0,
+		"address":"",
+		"dType":"",
+		"dNum":"",
+	  "bokingId":""
+    }
+  ]

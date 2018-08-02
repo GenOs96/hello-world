@@ -1,0 +1,7 @@
+{ 
+  "profiles":[
+      {"id" : 1, "name" : "sanju" , "address" : "hyd"},
+      {"id" : 2, "name" : "samu" , "address" : "bang"},
+      {"id" : 3, "name" : "manju" , "address" : "chennai"}
+   ]
+}
